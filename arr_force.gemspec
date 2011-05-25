@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.version     = ArrForce::VERSION
   gem.author      = "Steve Agalloco"
   gem.email       = 'steve.agalloco@gmail.com'
-  gem.homepage    = ''
+  gem.homepage    = 'https://github.com/spagalloco/arr-force'
   gem.summary     = %q{Faraday Middleware to ensure certain keys are converted to arrays}
   gem.description = %q{Faraday Middleware to ensure certain keys are converted to arrays}
 
